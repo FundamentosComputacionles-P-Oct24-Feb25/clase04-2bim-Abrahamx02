@@ -20,3 +20,5 @@
 // 30
 // 110
 //
+// la función se caracteriza por tener un retorno y el procedimiento en cambo no tiene un retorno
+// 
